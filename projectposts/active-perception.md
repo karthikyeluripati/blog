@@ -26,7 +26,7 @@ The core idea behind this new method is elegantly simple yet powerful: an autono
 
 To implement this vision, the researchers turned to neural radiance fields (NeRFs), a recent breakthrough in computer vision. NeRFs are neural networks that can represent complex 3D scenes and generate novel views with high fidelity.
 
-![NeRF Visualization](/images/projectpost-2/image.png)
+<!-- ![NeRF Visualization](/images/projectpost-2/image.png) -->
 
 *Figure 1: Visualization of a neural radiance field representing a complex indoor environment.*
 
