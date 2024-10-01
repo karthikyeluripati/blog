@@ -1,7 +1,7 @@
 ---
 title: "Residential Energy Forecasting with Deep Learning"
 subtitle: "Evaluating forecasting models"
-date: "25-09-24"
+date: "25-09-21"
 ---
 <!-- # Residential Energy Forecasting with Deep Learning -->
 
