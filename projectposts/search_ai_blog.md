@@ -213,7 +213,7 @@ AI could be employed to provide insights on usage patterns and suggest healthy b
 
 ## Conclusion
 
-Your AI Web Browser project demonstrates an innovative approach to combining traditional web browsing with AI-powered features. The PyQt5 framework provides a solid foundation for building a custom browser, while the integration of AI technologies opens up numerous possibilities for enhancing the user experience.
+AI Web Browser project demonstrates an innovative approach to combining traditional web browsing with AI-powered features. The PyQt5 framework provides a solid foundation for building a custom browser, while the integration of AI technologies opens up numerous possibilities for enhancing the user experience.
 
 To further develop this project, consider the following suggestions:
 
@@ -226,4 +226,4 @@ To further develop this project, consider the following suggestions:
 7. Develop the Spotify integration to recommend music based on browsing mood and history.
 8. Enhance screen time tracking with AI-powered insights and recommendations.
 
-Your project showcases the potential for AI to revolutionize web browsing, creating a more intuitive and personalized experience for users. As you continue to develop and refine these features, you're pushing the boundaries of what's possible in modern web browsers.
+This project showcases the potential for AI to revolutionize web browsing, creating a more intuitive and personalized experience for users. As to continue and refine these features, we push the boundaries of what's possible in modern web browsers.
