@@ -1,11 +1,10 @@
 ---
 title: "Active Perception with Neural Radiance Fields"
 subtitle: "Exploring the Future of Robotic Vision"
-date: "25-09-24"
+date: "29-09-24"
 ---
 
 <!-- # Exploring the Future of Robotic Vision: Active Perception with Neural Radiance Fields -->
-<p align="center">[Github](https://github.com/karthikyeluripati) [Tweet](https://github.com/karthikyeluripati) [Devpost](https://github.com/karthikyeluripati)</p>
 
 In the realm of robotics and computer vision, a groundbreaking study has emerged that could revolutionize how autonomous agents perceive and interact with their environment. Researchers from the University of Pennsylvania have introduced a novel approach to active perception using neural radiance fields (NeRFs), paving the way for more intelligent and efficient exploration of complex indoor environments.
 
