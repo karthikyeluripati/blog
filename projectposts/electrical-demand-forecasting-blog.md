@@ -1,7 +1,7 @@
 ---
 title: "Residential Energy Forecasting with Deep Learning"
 subtitle: "Deep Learning Approach to Residential Electrical Demand Forecasting"
-date: "05-2021"
+date: "09-2021"
 ---
 
 <p align="center">[IEEE Xplore](https://ieeexplore.ieee.org/document/9670956)</p>

@@ -1,7 +1,7 @@
 ---
 title: "SearchAI"
 subtitle: "buildspace s5 - A Feature-Rich PyQt5 Browser with Integrated AI"
-date: "07-2024"
+date: "08-2024"
 ---
 
 <p align='center'>[GitHub](https://github.com/karthikyeluripati/searchai) [Tweet](https://x.com/Karthik_Ysvk/status/1808008945232949443) [Youtube](https://www.youtube.com/watch?v=e6KWyaee2Ls)</p>

@@ -1,7 +1,7 @@
 ---
 title: "Scalable User Management System"
 subtitle: "Modular, secure, and scalable solution using Node.js, Express and MongoDB"
-date: "02-2024"
+date: "04-2024"
 ---
 
 <p align="center">[GitHub](https://github.com/karthikyeluripati/user_management)</p>

@@ -1,7 +1,7 @@
 ---
 title: "AI Buddy"
 subtitle: "Your Personalized Mental Health Companion"
-date: "05-2024"
+date: "06-2024"
 ---
 
 <p align="center">[Devpost](https://devpost.com/software/ai-buddy-o6aqfu)</p>

@@ -1,7 +1,7 @@
 ---
 title: "Advancing Solar Flare Prediction: A Data Mining Approach"
 subtitle: "Leveraging Machine Learning to Classify Solar Active Regions"
-date: "08-2023"
+date: "12-2023"
 ---
 
 <p align="center">[Github](https://github.com/karthikyeluripati/Solar_Flare_Prediction)</p>

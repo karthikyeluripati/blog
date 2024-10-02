@@ -1,7 +1,7 @@
 ---
 title: "Conversational AI"
 subtitle: "Real-Time Voice Bot with Deepgram, Groq, and LangChain"
-date: "04-2024"
+date: "07-2024"
 ---
 
 <p align="center">[GitHub](https://github.com/karthikyeluripati/chatbot_v1)</p>
