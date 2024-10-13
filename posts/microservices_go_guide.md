@@ -1,7 +1,7 @@
 ---
 title: "Microservices using Go"
 subtitle: ""
-date: "30-09-24"
+date: "13-10-24"
 ---
 # Building Microservices with Go: A Comprehensive Guide
 
