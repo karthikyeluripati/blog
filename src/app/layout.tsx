@@ -28,7 +28,7 @@ export default function RootLayout({
   // Define your header JSX
   const header = (
     <header>
-      <div className="text-center bg-black p-4 my-6 rounded-md mb-12">
+      <div className="text-center bg-black p-4 my-6 mb-12">
         <Link href="/"><h1 className="text-2xl text-white font-bold mt-4">Karthik Yeluripati</h1></Link>
         <p className="text-white">
         <TypewriterComponent />
@@ -68,7 +68,7 @@ export default function RootLayout({
 
   //Define your footer JSX
   const footer = (
-    <footer className="bg-black rounded-md">
+    <footer className="bg-black">
       <div className="mx-auto max-w-6xl px-6 flex justify-between items-center p-4">
       <p className="text-white text-xs">
       Designed by Karthik Yeluripati. All rights reserved.
