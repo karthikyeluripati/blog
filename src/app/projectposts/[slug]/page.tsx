@@ -27,7 +27,7 @@ const ProjectPage = (props: any) => {
             <h1 className='text-2xl text-slate-600 text-center'>{post.data.title}</h1>
             <p className='text-slate-400 mt-2'>{post.data.date}</p>
             </div>
-            <article className="prose">
+            <article className="prose max-w-6xl">
             <Markdown>{post.content}</Markdown>
             </article>
         </div>

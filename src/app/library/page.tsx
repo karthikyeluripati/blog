@@ -8,7 +8,7 @@ const LibraryPage = () => {
   const library = matter(content);
 
   return (
-    <div>
+    <div className='min-h-screen'>
       <article className="prose">
         <Markdown>{library.content}</Markdown>
       </article>

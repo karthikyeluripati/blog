@@ -21,8 +21,8 @@ const HomePage = () => {
   ));
 
   return (
-    <div className=''>
-      <h1 className="text-2xl font-bold mb-4">Blogs</h1>
+    <div className='h-screen'>
+      {/* <h1 className="text-2xl font-bold mb-4">Blogs</h1> */}
       {PostPreviews}
     </div>
   );

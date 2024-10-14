@@ -22,8 +22,8 @@ const ProjectPage = () => {
   ));
 
   return (
-    <div className=''>
-      <h1 className="text-2xl font-bold mb-4">Projects</h1>
+    <div className='min-h-screen'>
+      {/* <h1 className="text-2xl font-bold mb-4">Projects</h1> */}
       {PostPreviews}
     </div>
   );

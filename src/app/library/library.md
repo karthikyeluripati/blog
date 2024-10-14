@@ -1,4 +1,4 @@
-## Library
+
 
 - Principles of Neural Design
 - A First Course in Bayesian Statistical Methods

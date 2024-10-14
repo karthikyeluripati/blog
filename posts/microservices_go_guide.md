@@ -1,9 +1,8 @@
 ---
-title: "Microservices using Go"
+title: " Building Microservices with Go: A Comprehensive Guide"
 subtitle: ""
 date: "13-10-24"
 ---
-# Building Microservices with Go: A Comprehensive Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
