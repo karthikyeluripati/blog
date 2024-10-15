@@ -26,7 +26,7 @@ The core idea behind this new method is elegantly simple yet powerful: an autono
 
 To implement this vision, the researchers turned to neural radiance fields (NeRFs), a recent breakthrough in computer vision. NeRFs are neural networks that can represent complex 3D scenes and generate novel views with high fidelity.
 
-![NeRF Visualization](/images/post-1/image.png)
+![NeRF Visualization](/images/post-1/visualization.png)
 
 *Figure 1: Visualization of a neural radiance field representing a complex indoor environment.*
 
@@ -36,7 +36,7 @@ In this study, the NeRF is extended to capture not just color and geometry, but 
 
 The researchers implemented their approach on a simulated quadrotor drone exploring cluttered indoor environments. The results are impressive:
 
-![Exploration Trajectory](/images/post-2/image.png)
+![Exploration Trajectory](/images/post-1/trajectory.png)
 
 *Figure 2: Trajectory of a quadrotor actively exploring an indoor environment. The colored mesh represents the reconstructed scene with semantic labels.*
 
@@ -50,7 +50,7 @@ As the drone explores, it continually updates its NeRF representation of the sce
 
 The researchers compared their approach to two baseline methods: a frequency-based exploration strategy and a frontier-based method. The results show that the NeRF-based active perception approach often outperforms these traditional methods, especially in the early stages of exploration.
 
-![Performance Comparison](https://example.com/performance_comparison.jpg)
+![Performance Comparison](/images/post-1/performance.png)
 
 *Figure 3: Comparison of object localization performance between the proposed method and baseline approaches.*
 
