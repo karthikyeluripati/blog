@@ -28,7 +28,7 @@ export default function RootLayout({
   // Define your header JSX
   const header = (
     <header>
-      <div className="text-center bg-black p-4 my-6 mb-12">
+      <div className="text-center bg-black p-4 mb-12">
         <Link href="/"><h1 className="text-2xl text-white font-bold mt-4">Karthik Yeluripati</h1></Link>
         <p className="text-white">
         <TypewriterComponent />
