@@ -6,9 +6,10 @@ import { usePathname } from 'next/navigation';
 interface NavLinkProps {
   href: string;
   children: React.ReactNode;
+  className?: string;  // Make className optional
 }
 
-const NavLink: React.FC<NavLinkProps> = ({ href, children }) => {
+const NavLink: React.FC<NavLinkProps> = ({ href, children, className = '' }) => {
   const pathname = usePathname();
   const isActive = pathname === href;
 

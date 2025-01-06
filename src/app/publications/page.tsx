@@ -19,7 +19,7 @@ const PublicationPage = () => {
           // }
     ];
    
-    const formatAuthors = (authors) => {
+    const formatAuthors = (authors: any[]) => {
       return authors.map((author, index) => {
         const isLastAuthor = index === authors.length - 1;
         const separator = isLastAuthor ? "" : ", ";
@@ -52,11 +52,11 @@ const PublicationPage = () => {
                   alt={pub.title}
                   className="rounded-lg w-full object-cover"
                 />
-                {pub.caption && (
+                {/* {pub.caption && (
                   <p className="text-sm text-gray-600 mt-2 italic text-center">
                     {pub.caption}
                   </p>
-                )}
+                )} */}
               </div>
   
               <div className="flex-1 space-y-2">
