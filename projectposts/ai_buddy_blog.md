@@ -2,6 +2,23 @@
 title: "AI Buddy"
 subtitle: "Your Personalized Mental Health Companion"
 date: "06-2024"
+producturl: "https://devpost.com/software/ai-buddy-o6aqfu"
+media:
+  - type: "image"
+    url: "/images/aibuddy/ucb_hackathon.jpeg"
+    link: "/images/aibuddy/ucb_hackathon.jpeg"
+#   - type: "video"
+#     url: "/videos/searchai/2024-07-01 23-35-38.mkv"
+#     link: "https://www.youtube.com/watch?v=e6KWyaee2Ls"
+#     # thumbnail: "/images/projects/project1/video-thumbnail.jpg"
+  - type: "image"
+    url: "/images/aibuddy/gallery.jpg"
+    link: "/images/aibuddy/gallery.jpg"
+  - type: "image"
+    url: "/images/aibuddy/andrej.jpeg"
+    link: "/images/aibuddy/andrej.jpeg"
+
+
 ---
 
 <p align="center">[Devpost](https://devpost.com/software/ai-buddy-o6aqfu)</p>

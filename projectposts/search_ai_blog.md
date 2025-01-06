@@ -2,13 +2,25 @@
 title: "SearchAI"
 subtitle: "buildspace s5 - A Feature-Rich PyQt5 Browser with Integrated AI"
 date: "08-2024"
+producturl: "https://github.com/karthikyeluripati/searchai"
+media:
+  - type: "image"
+    url: "/images/searchai/buildspace.png"
+    link: "/images/searchai/buildspace.png"
+  - type: "video"
+    url: "/videos/searchai/2024-07-01 23-35-38.mkv"
+    link: "https://www.youtube.com/watch?v=e6KWyaee2Ls"
+    # thumbnail: "/images/projects/project1/video-thumbnail.jpg"
+  - type: "image"
+    url: "/images/searchai/image.png"
+    link: "/images/searchai/image.png"
 ---
 
 <p align='center'>[GitHub](https://github.com/karthikyeluripati/searchai) [Tweet](https://x.com/Karthik_Ysvk/status/1808008945232949443) [Youtube](https://www.youtube.com/watch?v=e6KWyaee2Ls)</p>
 
 This project showcases a custom web browser built from scratch using Python and PyQt5, with integrated AI features. The browser combines traditional web browsing capabilities with modern AI-powered functionalities, creating a unique and powerful user experience.
 
-![Buildspace s5 poster](/images/projectpost-3/image.png)
+![Buildspace s5 poster](/images/searchai/image.png)
 
 ## Core Technology Stack
 

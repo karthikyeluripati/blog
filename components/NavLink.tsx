@@ -15,7 +15,7 @@ const NavLink: React.FC<NavLinkProps> = ({ href, children }) => {
   return (
     <Link 
       href={href} 
-      className={`mr-4 ${isActive ? 'underline underline-offset-4' : ''}`}
+      className={`mr-4 text-gray-400${isActive ? 'text-gray-800' : ''}`}
     >
       {children}
     </Link>

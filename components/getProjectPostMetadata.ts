@@ -15,6 +15,9 @@ const getProjectPostMetadata = (): ProjectPostMetadata[] =>{
         date: matterResult.data.date,
         subtitle:matterResult.data.subtitle,
         slug:fileName.replace('.md',""),
+        producturl:matterResult.data.producturl,
+        // images: matterResult.data.images || [], // Add default empty array
+        media: matterResult.data.media || [], 
       };
     });
     return posts;
